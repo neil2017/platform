@@ -39,6 +39,10 @@
     "karma-jasmine": "^1.0.2",
     "karma-remap-istanbul": "^0.2.1",
     "protractor": "~4.0.13",
+    "rebirth-event-source": "^0.0.1",
+    "rebirth-http": "^0.0.9",
+    "rebirth-permission": "^0.0.4",
+    "rebirth-storage": "^0.0.7",
     "ts-node": "1.2.1",
     "tslint": "^4.3.0",
     "typescript": "~2.0.3"
